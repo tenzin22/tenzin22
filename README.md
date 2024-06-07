@@ -4,11 +4,19 @@
 
 Hi, I'm Nima. Here are some following languages that are ranked in order of how fluent i am in them.
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| C|
 |     2| Java    |
 |     3| Python      |
+
+
+</details>
+
+
 
 
 <picture>
