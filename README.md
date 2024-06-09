@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Flutter framework.**
 
-- ⚡ Fun fact **You can something new everyday!!**
+- ⚡ Fun fact **You can learn something new everyday!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
