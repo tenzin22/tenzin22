@@ -16,3 +16,5 @@
 
 [![Credly Badge](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cf589cac-6598-4d67-a0ab-e58666c9233c/public_url)
 
+[![Credly Badge](https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/5442d7b3-b9b1-4946-90a2-b1fc67ed4c23/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/7ad53529-41cb-4430-9ca2-d1ee7b515a52/public_url)
+
