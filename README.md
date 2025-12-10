@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
 <h3 align="center">I'm currently aspiring to be a developer architect currently in Japan.</h3>
 
+<b>
+  
 - I’m currently learning **about Flutter framework.**
 
 - Fun fact **You can learn something new everyday!!**
