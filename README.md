@@ -30,12 +30,13 @@ I'm currently aspiring to be a developer architect in Japan.
   <a href="https://www.credly.com/badges/cf589cac-6598-4d67-a0ab-e58666c9233c/public_url">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Certification 1" width="100" />
   </a>
+   <a href="https://www.credly.com/badges/d44e5f1a-983f-418a-a4f6-2f2b7c6242c2/public_url">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="Certification 2" width="100" />
+  </a>
   <a href="https://www.credly.com/badges/7ad53529-41cb-4430-9ca2-d1ee7b515a52/public_url">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Certification 2" width="100" />
   </a>
-  <a href="https://www.credly.com/badges/d44e5f1a-983f-418a-a4f6-2f2b7c6242c2/public_url">
-    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="Certification 2" width="100" />
-  </a>
+ 
 </p>
 
 ---
